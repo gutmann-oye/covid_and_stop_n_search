@@ -1,7 +1,7 @@
 # covid_and_stop_n_search
 This is a data analysis of covid data and stop and search data in selected regions in the UK.
 
-There are 8 files (including this README file) in this folder.
+There are 7 files in this project.
     
 * covid_data_analysis: It is a .ipynb file which shows all the analysis run on the provided covid data. It is well titled and easy to follow. It is also interactive. The user can rerun the program by restarting Kernel and be able to input intended areas to visualise.
     
